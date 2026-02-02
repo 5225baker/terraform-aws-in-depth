@@ -12,4 +12,3 @@ variable "subnet_id" {
     error_message = "The subnet_id must match the pattern ^subnet-[\\w]+$"
   }
 }
- 
